@@ -1,0 +1,12 @@
+C:\Users\впрд\source\repos\HelloWorld\HelloWorld\bin\Release\HelloWorld.exe.config
+C:\Users\впрд\source\repos\HelloWorld\HelloWorld\bin\Release\HelloWorld.exe
+C:\Users\впрд\source\repos\HelloWorld\HelloWorld\bin\Release\HelloWorld.pdb
+C:\Users\впрд\source\repos\HelloWorld\HelloWorld\bin\Release\HelloWorld.xml
+C:\Users\впрд\source\repos\HelloWorld\HelloWorld\obj\Release\HelloWorld.vbprojAssemblyReference.cache
+C:\Users\впрд\source\repos\HelloWorld\HelloWorld\obj\Release\HelloWorld.Form1.resources
+C:\Users\впрд\source\repos\HelloWorld\HelloWorld\obj\Release\HelloWorld.Resources.resources
+C:\Users\впрд\source\repos\HelloWorld\HelloWorld\obj\Release\HelloWorld.vbproj.GenerateResource.cache
+C:\Users\впрд\source\repos\HelloWorld\HelloWorld\obj\Release\HelloWorld.vbproj.CoreCompileInputs.cache
+C:\Users\впрд\source\repos\HelloWorld\HelloWorld\obj\Release\HelloWorld.exe
+C:\Users\впрд\source\repos\HelloWorld\HelloWorld\obj\Release\HelloWorld.xml
+C:\Users\впрд\source\repos\HelloWorld\HelloWorld\obj\Release\HelloWorld.pdb
